@@ -1,5 +1,7 @@
 {
+  "chant": 4,
+  "creole": 5,
   "english": 3,
-  "french": 2,
-  "espanish": 1
+  "spanish": 2,
+  "francais": 1
 }
